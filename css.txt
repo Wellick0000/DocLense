@@ -1,0 +1,17 @@
+CSS (Cascade Style sheet) It is used to style an html document, so in this the page to be displayed in styled form
+Types of css
+
+
+if we set background colour font size colour in an webpage, 
+Inlile css contain css property in their body section attached with element is known as inline css, this kind of style is specefies with an html tag using this style attribute.
+
+
+
+
+Internal or embedded css can be used when an single html document must be styled uniquly, the css used set should be between html file in the head section e.i css should be in html
+
+
+
+
+External Css:-Contains seperate css file which contain only style properties with the help of tag atribute, class heading etc And should be linked using html document using link tag, this means style can be set only once
+css property should be written an html file, should be linked in an html FOr each element style can be set once an dtheat can be applied
